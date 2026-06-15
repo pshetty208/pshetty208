@@ -29,10 +29,10 @@ Full Stack Java Developer with a focus on AI/ML integration. I build backend sys
 
 ## 💼 Experience 
 
-- **Insiders Technologies** — Software Engineer, Full Stack + ML *(2024–2026)*
-- **SAP SE** — Java Developer Werkstudent *(2022–2024)*
-- **Siemens** — Full Stack Java Developer *(2021–2022)*
-- **ITC Infotech** — Full Stack Java Developer *(2018–2021)*
+- **Insiders Technologies**, Germany — Software Engineer, Full Stack + ML *(2024–2026)*
+- **SAP SE**, Germany — Java Developer Werkstudent *(2022–2024)*
+- **Siemens**, India — Full Stack Java Developer *(2021–2022)*
+- **ITC Infotech**, India — Full Stack Java Developer *(2018–2021)*
 
 ---
 ## 📫 Let's Connect
