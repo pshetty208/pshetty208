@@ -1,29 +1,29 @@
 ### Hi, I'm Prajna 👋
 
-Full Stack Java Developer with a focus on AI/ML integration. I build backend systems and intelligent pipelines, with 7+ years of experience ranging from building REST APIs and microservices to LLM orchestration and transformer models, across SAP, Siemens, ITC Infotech, and Insiders Technologies.
+Full Stack Java Developer with a experience in AI/ML. I build backend systems and intelligent pipelines, with 6+ years of experience ranging from building REST APIs and microservices to LLM orchestration and transformer models, across SAP, Siemens, ITC Infotech, and Insiders Technologies.
 
 ---
 
 ## 🛠️ Expertise
 
 **Backend & Frontend**
-`Java` `Spring Boot` `REST APIs` `Microservices` `Angular` `JavaScript`
+`Java` `Spring Boot` `REST APIs` `Microservices` `Angular` `TypeScript` `HTML` `CSS` `Python` `JavaScript`   
 
 **Others**
-`PostgreSQL` `MongoDB` `Docker` `Kubernetes` `Kafka` `RabbitMQ`
+`SQL` `MySQL` `PostgreSQL` `MongoDB` `MariaDB` `Docker` `Kubernetes` `Openshift` `AWS` `Kafka` `RabbitMQ`
  
 **AI / ML**
-`Python` `PyTorch` `TensorFlow` `Transformers` `Computer Vision` `RAGs` `Langchain` `LLM Orchestration`
+ `LLMs`  `Transformers` `Computer Vision` `Neural Networks`  `Agentic Workflows` `Langchain` `LangGraph` `RAG Pipelines` `Prompt Engineering`
 
 ---
 
 ## 📚 Research and Publications
 
 - 📄 M.Sc. Thesis — *Improving Document Object Detection by Image Dewarping* · Insiders Technologies, 2025  
-  Evaluated transformer-based dewarping models (DocTr, GeoTr, UVDoc). Achieved ~20% accuracy improvement via model optimization, illumination correction, and data augmentation.
+  Evaluated transformer-based dewarping models (DocTr, GeoTr, UVDoc etc.,). Achieved ~20% improvement in image readbility via model optimization, illumination correction, and data augmentation.
 
 - 📄 *Anomaly Detection on Time Series Data* · [Databricks Blog](https://community.databricks.com/t5/technical-blog/detecting-the-unseen-a-deep-dive-into-anomaly-detection/ba-p/55623) · 2023  
-  Comparative study of ML/DL anomaly detection algorithms (DeepANT, LSTM-AE, Isolation Forest) on univariate and multivariate datasets.
+  Comparative study of ML/DL anomaly detection algorithms (DeepANT, LSTM-AE, Isolation Forest etc.,) on univariate and multivariate datasets.
 
 ---
 
