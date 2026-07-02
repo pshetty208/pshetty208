@@ -9,7 +9,7 @@ Full Stack Java Developer with a experience in AI/ML. I build backend systems an
 **Backend & Frontend**
 `Java` `Spring Boot` `REST APIs` `Microservices` `Angular` `TypeScript` `HTML` `CSS` `Python` `JavaScript`   
 
-**Others**
+**DataBase, DevOps & Others**
 `SQL` `MySQL` `PostgreSQL` `MongoDB` `MariaDB` `Docker` `Kubernetes` `Openshift` `AWS` `Kafka` `RabbitMQ`
  
 **AI / ML**
