@@ -4,19 +4,6 @@ Full Stack Java Developer with a experience in AI/ML. I build backend systems an
 
 ---
 
-## 🛠️ Expertise
-
-**Backend & Frontend**
-`Java` `Spring Boot` `REST APIs` `Microservices` `Angular` `TypeScript` `HTML` `CSS` `Python` `JavaScript`   
-
-**DataBase, DevOps & Others**
-`SQL` `MySQL` `PostgreSQL` `MongoDB` `MariaDB` `Docker` `Kubernetes` `Openshift` `AWS` `Kafka` `RabbitMQ`
- 
-**AI / ML**
- `LLMs`  `Transformers` `Computer Vision` `Neural Networks`  `Agentic Workflows` `Langchain` `LangGraph` `RAG Pipelines` `Prompt Engineering`
-
----
-
 ## 📚 Research and Publications
 
 - 📄 M.Sc. Thesis — *Improving Document Object Detection by Image Dewarping* · Insiders Technologies, 2025  
