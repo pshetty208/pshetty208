@@ -1,6 +1,6 @@
 ### Hi, I'm Prajna 👋
 
-Full Stack Java Developer with a experience in AI/ML. I build backend systems and intelligent pipelines, with 6+ years of experience ranging from building REST APIs and microservices to LLM orchestration and transformer models, across SAP, Siemens, ITC Infotech, and Insiders Technologies.
+Full Stack Java Developer with a experience in AI/ML. I build backend systems and intelligent pipelines, with experience ranging from building REST APIs and microservices to LLM orchestration and transformer models, across SAP, Siemens, ITC Infotech, and Insiders Technologies.
 
 ---
 
