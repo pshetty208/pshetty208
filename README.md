@@ -16,8 +16,8 @@ Full Stack Java Developer with a experience in AI/ML. I build backend systems an
 
 ## 💼 Experience
 
-| Period | Role |
-|---|---|
+| Period | Role |  |
+|---|---|---|
 | Jun 2024 – Mar 2026 | **Insiders Technologies** · Software Engineer (Full Stack + ML), working student | Germany |
 | Oct 2022 – Apr 2024 | **SAP SE** · Java Developer, working student | Germany |
 | 🎓 April 2022 – Sept 2026 | **Master's. Web and Data Science** | Germany |
