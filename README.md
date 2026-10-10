@@ -18,12 +18,12 @@ Full Stack Java Developer with a experience in AI/ML. I build backend systems an
 
 | Period | Role |
 |---|---|
-| Jun 2024 – Mar 2026 | **Insiders Technologies**, Germany · Software Engineer (Full Stack + ML), working student |
-| Oct 2022 – Apr 2024 | **SAP SE**, Germany · Java Developer, working student |
-| 🎓 April 2022 – Sept 2026 | **Master's. Web and Data Science**, Germany | 
-| Oct 2021 – Mar 2022 | **Siemens Energy**, India · Full-Stack Java Developer |
-| Jun 2018 – Sep 2021 | **ITC Infotech** (client: Santander UK), India · Full-Stack Java Developer |
-| 🎓 July 2014 – June 2018 | **Bachelor's. Computer Science and Engineering**, India | 
+| Jun 2024 – Mar 2026 | **Insiders Technologies** · Software Engineer (Full Stack + ML), working student | Germany |
+| Oct 2022 – Apr 2024 | **SAP SE** · Java Developer, working student | Germany |
+| 🎓 April 2022 – Sept 2026 | **Master's. Web and Data Science** | Germany |
+| Oct 2021 – Mar 2022 | **Siemens Energy** · Full-Stack Java Developer | India |
+| Jun 2018 – Sep 2021 | **ITC Infotech** (client: Santander UK) · Full-Stack Java Developer | India |
+| 🎓 July 2014 – June 2018 | **Bachelor's. Computer Science and Engineering** | India |
 
 ---
 ## 📫 Let's Connect
